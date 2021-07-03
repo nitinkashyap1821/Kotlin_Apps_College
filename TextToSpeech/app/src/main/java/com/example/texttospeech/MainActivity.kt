@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
             mTTS.speak(text, TextToSpeech.QUEUE_FLUSH, null)
         }
     }
+
     override fun onDestroy() {
         mTTS.stop()
         mTTS.shutdown()
