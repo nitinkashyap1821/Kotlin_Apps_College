@@ -5,6 +5,7 @@ Create an application to design a Visiting Card. The Visiting card should havea 
 
 ![scrrenshot of the app](images/visitingCard.PNG)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Simple Calculator
 Develop an Android application usingcontrols like Button, TextView, EditText for designing a calculator having basic functionality like Addition, Subtraction, Multiplication, and Division.
