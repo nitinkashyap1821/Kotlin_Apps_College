@@ -27,6 +27,14 @@ On successful SIGN UP proceed to the next Login activity. Here the user should S
 <img src="images/signUp.PNG" width="310" height="580">  <img src="images/signIn.PNG" width="310" height="580">
 
 -------------------------------------------------------------------------------------------------------------------------
+## Wallpaper Changer
+
+Develop an application to set an image as wallpaper. On click of a button, the wallpaper image
+should start to change randomly every 30 seconds.
+
+<img src="images/wallpaper.PNG"><img src="images/wallpaper1.PNG"><img src="images/wallpaper2.PNG">
+
+----------------------------------------------------------------------------------------------------------------------------
 
 ## Counter Application
 Write a program to create an activity with two buttons START and STOP. On pressing of the START button, the activity must start the counter by displaying the numbers from
