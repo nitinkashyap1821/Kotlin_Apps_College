@@ -22,12 +22,7 @@ based on the following rules:
  - Password should contain special characters.
  - Minimum length of the password (the default value is 8).
 
-On successful SIGN UP proceed to the next Login activity. Here the user should SIGN IN using
-the Username and Password created during signup activity. If the Username and Password are
-matched then navigate to the next activity whichdisplays a message saying “Successful Login” or
-else display a toast message saying “Login Failed”.The user is given only two attempts and after
-thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
-Bundle to transfer information from one activity to another.
+On successful SIGN UP proceed to the next Login activity. Here the user should SIGN IN using the Username and Password created during signup activity. If the Username and Password are matched then navigate to the next activity whichdisplays a message saying “Successful Login” or else display a toast message saying “Login Failed”.The user is given only two attempts and after that display a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use Bundle to transfer information from one activity to another.
 
 <img src="images/signUp.PNG" width="310" height="580">  <img src="images/signIn.PNG" width="310" height="580">
 
@@ -40,6 +35,13 @@ One and the counter must keep on counting until the STOP button is pressed. Disp
 ![scrrenshot of the app](images/counter.PNG)
 
 --------------------------------------------------------------------------------------------
+## Data Parser
+Create two files of XML and JSON type with values for City_Name, Latitude, Longitude, Temperature, and Humidity. Develop an application to create an activity with two buttons to parse the XML and JSON files which when clicked should display the data in their respective layouts
+side by side.
+
+<img src="images/xml.PNG" width="310" height="580">  <img src="images/json.PNG" width="310" height="580">
+
+----------------------------------------------------------------------------------------------------
 
 ## Text to Speech
 Develop a simple application with one EditText so that the user can write some text in it. Create a button called “Convert Text to Speech” that converts the user input text into voice.
