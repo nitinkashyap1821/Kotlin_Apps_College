@@ -10,7 +10,7 @@ Create an application to design a Visiting Card. The Visiting card should havea 
 ## Simple Calculator
 Develop an Android application usingcontrols like Button, TextView, EditText for designing a calculator having basic functionality like Addition, Subtraction, Multiplication, and Division.
 
-![scrrenshot of the app](images/calculator.PNG)  <img src="images/signUp.PNG" width="310" height="580">
+![scrrenshot of the app](images/calculator.PNG)  
 
 --------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ else display a toast message saying “Login Failed”.The user is given only tw
 thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
 Bundle to transfer information from one activity to another.
 
-<img src="images/signUp.PNG" width="100" height="100">
+<img src="images/signUp.PNG" width="310" height="580">
 
 -------------------------------------------------------------------------------------------------------------------------
 
