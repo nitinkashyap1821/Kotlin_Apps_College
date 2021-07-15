@@ -29,7 +29,7 @@ else display a toast message saying “Login Failed”.The user is given only tw
 thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
 Bundle to transfer information from one activity to another.
 
-![scrrenshot of the app](images/WhatsApp Image 2021-07-15 at 5.20.52 PM.jpeg) ![scrrenshot of the app](images/WhatsApp Image 2021-07-15 at 5.20.52 PM (1).jpeg)
+![scrrenshot of the app](images/signUp.PNG) ![scrrenshot of the app](images/WhatsApp Image 2021-07-15 at 5.20.52 PM (1).jpeg)
 
 -------------------------------------------------------------------------------------------------------------------------
 
