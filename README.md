@@ -12,7 +12,7 @@ Develop an Android application usingcontrols like Button, TextView, EditText for
 
 ![scrrenshot of the app](images/calculator.PNG)
 
-<img src="images/signUp.PNG" width="300" height="100">
+<img src="images/signUp.PNG" width="310" height="620">
 
 --------------------------------------------------------------------------------------------
 
