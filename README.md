@@ -26,13 +26,15 @@ On successful SIGN UP proceed to the next Login activity. Here the user should S
 
 <img src="images/signUp.PNG" width="310" height="580">  <img src="images/signIn.PNG" width="310" height="580">
 
+0.53
+
 -------------------------------------------------------------------------------------------------------------------------
 ## Wallpaper Changer
 
 Develop an application to set an image as wallpaper. On click of a button, the wallpaper image
 should start to change randomly every 30 seconds.
 
-<img src="images/wallpaper.PNG"><img src="images/wallpaper1.PNG"><img src="images/wallpaper2.PNG">
+<img src="images/wallpaper.PNG" width="106" height="200"><img src="images/wallpaper1.PNG"><img src="images/wallpaper2.PNG">
 
 ----------------------------------------------------------------------------------------------------------------------------
 
