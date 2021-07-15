@@ -3,7 +3,7 @@
 ## Visiting Card
 Create an application to design a Visiting Card. The Visiting card should havea company logo at the top right corner. The company name should be displayed in Capital letters, aligned to the center. Information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.
 
-<img align="center" src="images/visitingCard.PNG" alt="scrrenshot of the app">
+<img src="images/visitingCard.PNG" alt="scrrenshot of the app">
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ else display a toast message saying “Login Failed”.The user is given only tw
 thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
 Bundle to transfer information from one activity to another.
 
-<img src="images/signUp.PNG" width="310" height="580">
+<img src="images/signUp.PNG" width="310" height="580">  <img src="images/signIn.PNG" width="310" height="580">
 
 -------------------------------------------------------------------------------------------------------------------------
 
