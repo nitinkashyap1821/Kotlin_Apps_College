@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
 
-    <com.google.android.material.textview.MaterialTextView
+    <TextView
         android:id="@+id/counter_value"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,3 +43,4 @@
         android:layout_marginBottom="8dp"
         android:text="@string/reset" />
 </LinearLayout>
+

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParserApp</string>
+    <string name="humidity">Humidity :</string>
+    <string name="temperature">Temperature :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="city_name">City Name :</string>
+    <string name="data_type">Data type :</string>
+    <string name="parse_json">Parse json</string>
+    <string name="parse_xml">Parse XML</string>
+</resources>
