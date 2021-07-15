@@ -34,7 +34,7 @@ On successful SIGN UP proceed to the next Login activity. Here the user should S
 Develop an application to set an image as wallpaper. On click of a button, the wallpaper image
 should start to change randomly every 30 seconds.
 
-<img src="images/wallpaper.PNG" width="106" height="200"><img src="images/wallpaper1.PNG"><img src="images/wallpaper2.PNG">
+<img src="images/wallpaper.PNG" width="200" height="356"><img src="images/wallpaper1.PNG"><img src="images/wallpaper2.PNG">
 
 ----------------------------------------------------------------------------------------------------------------------------
 
