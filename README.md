@@ -12,6 +12,8 @@ Develop an Android application usingcontrols like Button, TextView, EditText for
 
 ![scrrenshot of the app](images/calculator.PNG)
 
+<img src="images/signUp.PNG" width="100" height="100">
+
 --------------------------------------------------------------------------------------------
 
 ## SignUp SignIn
@@ -29,7 +31,6 @@ else display a toast message saying “Login Failed”.The user is given only tw
 thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
 Bundle to transfer information from one activity to another.
 
-![scrrenshot of the app](images/signUp.PNG)
 <img src="images/signUp.PNG" width="100" height="100">
 
 -------------------------------------------------------------------------------------------------------------------------
