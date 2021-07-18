@@ -28,10 +28,10 @@ class MainActivity : AppCompatActivity() {
             dataType.text = "Data Type : Json"
             val obj = JSONObject(readJSon()!!)
             city.text = "City Name : ${obj.getString("City Name")}"
-            latitude.text = "City Name : ${obj.getString("Latitude")}"
-            longitude.text = "City Name : ${obj.getString("Longitude")}"
-            temp.text = "City Name : ${obj.getString("Temperature")}"
-            humidity.text = "City Name : ${obj.getString("Humidity")}"
+            latitude.text = "Laditude : ${obj.getString("Latitude")}"
+            longitude.text = "Longitude : ${obj.getString("Longitude")}"
+            temp.text = "Temperature : ${obj.getString("Temperature")}"
+            humidity.text = "Humidity : ${obj.getString("Humidity")}"
 
         }
 
