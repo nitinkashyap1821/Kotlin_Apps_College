@@ -55,3 +55,10 @@ side by side.
 Develop a simple application with one EditText so that the user can write some text in it. Create a button called “Convert Text to Speech” that converts the user input text into voice.
 
 <img src="images/texttospeech.PNG" alt="scrrenshot of the app" width="250" height="445">
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+## Call and Save Application
+Create an activity like a phone dialer with CALL and SAVE buttons. On pressing the CALL button, it must call the phone number and on pressing the SAVE button it must save the number to the phone contacts
+
+<img src="images/call.PNG" alt="scrrenshot of the app" width="250" height="445">  <img src="images/save.PNG" alt="scrrenshot of the app" width="250" height="445">   <img src="images/calling.PNG" alt="scrrenshot of the app" width="250" height="445">
