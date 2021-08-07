@@ -1,6 +1,6 @@
 # Kotlin_Apps_College
 
-## Visiting Card
+## [Visiting Card](https://github.com/nitinkashyap1821/Kotlin_Apps_College/tree/main/VisitingCard)
 Create an application to design a Visiting Card. The Visiting card should havea company logo at the top right corner. The company name should be displayed in Capital letters, aligned to the center. Information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.
 
 <img src="images/visitingCard.PNG" alt="scrrenshot of the app" width="250" height="445">
