@@ -183,7 +183,7 @@
                 android:layout_margin="8dp"
                 android:text="@string/call"
                 android:drawableLeft="@drawable/ic_call"
-                 />
+                />
 
             <Button
                 android:id="@+id/save"
